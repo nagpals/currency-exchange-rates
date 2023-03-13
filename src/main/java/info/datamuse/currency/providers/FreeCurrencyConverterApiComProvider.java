@@ -12,6 +12,7 @@ import static info.datamuse.currency.utils.HttpUtils.HTTP_METHOD_GET;
 
 /**
  * <a href="https://free.currencyconverterapi.com">free.currencyconverterapi.com</a> rates provider.
+ Testing Git commit
  */
 public final class FreeCurrencyConverterApiComProvider extends AbstractCurrencyRatesProvider {
 
